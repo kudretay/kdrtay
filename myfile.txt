@@ -1,1 +1,2 @@
-deneme
+deneme this is a kind of test
+ok!
